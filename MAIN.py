@@ -5,7 +5,7 @@ Header :
     
 This is the main body of our program
 
-@author: alex
+@author: Alex.GENG
 """
 
 import csv
